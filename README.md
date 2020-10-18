@@ -7,7 +7,7 @@
 - `md/`文件夹下用于保存json转换为md的结果
 
 ## md2json.py 说明
-执行命令完成转换*(要求Phthon2.7)*
+执行命令完成转换*(要求Phthon3)*
 
 ```$ python md2json.py markdown/ json/```
 
