@@ -16,7 +16,7 @@
 ```$ python md2json.py -h```
 
 ## json2md.py说明
-执行命令完成转换*(要求python2.7)*
+执行命令完成转换*(要求python3)*
 
 ```$ python json2md.py json/ md/```
 
